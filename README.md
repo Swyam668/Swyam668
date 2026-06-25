@@ -8,7 +8,7 @@ B.Tech CSE @ NIT Delhi | AI/ML & Full-Stack Developer
   <a href="https://github.com/Swyam668">GitHub</a> •
   <a href="https://www.linkedin.com/in/SwyamVatwani/">LinkedIn</a> •
   <a href="https://leetcode.com/HansCapon/">LeetCode</a> •
-  <a href="mailto:swyamv04@gmail.com">Email</a>
+  <a href="mailto:swyamv04@gmail.com">Email</a> •
   <a href="./RESUME.pdf">Resume</a>
 </p>
 
