@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Swayam Vatwani 👋</h1>
+<h1 align="center">Hi, I'm Swyam Vatwani 👋</h1>
 
 <h3 align="center">
 B.Tech CSE @ NIT Delhi | AI/ML & Full-Stack Developer
